@@ -34,6 +34,7 @@ namespace CA1.Models
 
         public void ProductSeed()
         {
+
             dbContext.Add(new Product
             {
 
